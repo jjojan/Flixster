@@ -43,9 +43,9 @@ Describe any challenges encountered while building the app.
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 -[TMDB](https://developers.themoviedb.org/3/getting-started/introduction) - Movie database info API
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
