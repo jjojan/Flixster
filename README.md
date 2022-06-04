@@ -30,13 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-<img src='https://media.giphy.com/media/Xmqfh0i7WKGi0ppnUH/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://giphy.com/6c2fe8d9-8f40-44b5-bbb0-b726fb39e957' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was my first time working with Android Studio and Java so I had some issues with getting comfortable with the tools and workflow. On top of that I encountered several blocks related to the Constraint view and the Clicker function which impended by progress before I was able to get help and resolve them.
 
 ## Open-source libraries used
 
