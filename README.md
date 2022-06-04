@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-<img src='blob:https://giphy.com/6c2fe8d9-8f40-44b5-bbb0-b726fb39e957' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://giphy.com/6c2fe8d9-8f40-44b5-bbb0-b726fb39e957' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
