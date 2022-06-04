@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-![](Xmqfh0i7WKGi0ppnUH.gif)
+![](https://media.giphy.com/media/Xmqfh0i7WKGi0ppnUH/giphy.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
