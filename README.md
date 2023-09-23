@@ -2,11 +2,8 @@
 
 **Flixster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **10** hours spent in total
 
 ## User Stories
-
-The following **required** functionality is completed:
 
 * [x] User can **scroll through current movies** from the Movie Database API
 * [x] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
@@ -15,16 +12,12 @@ The following **required** functionality is completed:
   * [x] Title, Backdrop Image, Overview (Landscape mode)
 * [x] Allow user to view details of the movie including ratings within a separate activity
 
-The following **stretch** features are implemented:
 
 * [ ] Improved the user interface by experimenting with styling and coloring.
 * [ ] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
 * [ ] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -36,7 +29,6 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-It was my first time working with Android Studio and Java so I had some issues with getting comfortable with the tools and workflow. On top of that I encountered several blocks related to the Constraint view and the Clicker function which impended by progress before I was able to get help and resolve them.
 
 ## Open-source libraries used
 
